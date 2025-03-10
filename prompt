@@ -1,0 +1,22 @@
+Give me a HTML code that has a drawing window of 1920x1080 pixels
+Mouse is brush. When select the brush tool change the mouse control icon to brush
+Slider for opacity
+Slider for size 
+Color wheel for both brush and one for background
+A color palette that show recent used color and color code
+Color picker to pick color directly from canvas
+Button to change between brush and eraser. Shortcut is R
+Bucket to fill. Shortcut is F
+Ctrl Z to undo, Ctrl Y to redo
+Button to export it as image in selected folder. The exported image should have transparency. Shortcut is S
+The brush shape selection tab. Include 2 shape : Round and square
+In the right side there's a layer system which show all layer. Beside it are buttons to create new, delete and hide/unhide it
+By default it will have a white layer that can use as background
+For UX UI, I want something cute and elegant. There's also a title "Ciona's Cute Tablet" 
+When first open the web, a instruction will appear to show user how to use. This will last for 5 seconds and then auto fade out
+Please make a special background (The background should under the drawing canvas) that have cute special effect
+A smaller "Follow me" button that send directly to my youtube (https://www.youtube.com/@CionaCh)
+
+
+
+
